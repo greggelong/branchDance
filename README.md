@@ -17,3 +17,9 @@ branchDance4Progressive
 
 Found a physical logical problem.  My branch was not dancing the binary dance correctly. It was because the servos were mounted in with different positions as top.  I revered the goal angles in the code for  the Zero and that solved the problem
 In this progressive version I have made the tree return to the center after going to each number 100, 101,110,111.  So it matches the p5 sketch.
+
+-------
+March 2 2024
+
+using the progressive version with larger servos in a foam robot sculpture
+
